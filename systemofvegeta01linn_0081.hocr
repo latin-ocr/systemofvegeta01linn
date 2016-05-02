@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemofvegeta01linn_0081.png"; bbox 0 0 1907 3004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 104 1115 1495 1370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 104 1115 1551 1402">
+     <span class='ocr_line' id='line_1_1' title="bbox 104 1115 1495 1370; baseline 0.064 -123"><span class='ocrx_word' id='word_1_1' title='bbox 104 1115 126 1158; x_wconf 7' lang='grc' dir='ltr'>«Α,</span> <span class='ocrx_word' id='word_1_2' title='bbox 211 1132 713 1255; x_wconf 39' lang='grc' dir='ltr'>ὤζᾌωῶ</span> <span class='ocrx_word' id='word_1_3' title='bbox 559 1257 999 1353; x_wconf 35' lang='lat' dir='ltr'>&amp;Quum</span> <span class='ocrx_word' id='word_1_4' title='bbox 997 1273 1120 1333; x_wconf 63' lang='grc' dir='ltr'>,σιω</span> <span class='ocrx_word' id='word_1_5' title='bbox 1136 1274 1280 1336; x_wconf 59' lang='lat' dir='ltr'>hdo&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1281 1278 1412 1370; x_wconf 55' lang='lat'>351</span> <span class='ocrx_word' id='word_1_7' title='bbox 1457 1291 1495 1342; x_wconf 71' lang='grc' dir='ltr'>ζ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 532 1662 1590 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 534 1662 1590 1834">
+     <span class='ocr_line' id='line_1_2' title="bbox 534 1662 1590 1832; baseline 0.083 -106.175"><span class='ocrx_word' id='word_1_8' title='bbox 534 1662 730 1731; x_wconf 54' lang='lat' dir='ltr'>cum</span> <span class='ocrx_word' id='word_1_9' title='bbox 742 1675 922 1735; x_wconf 48' lang='lat' dir='ltr'>ww*</span> <span class='ocrx_word' id='word_1_10' title='bbox 939 1663 1288 1736; x_wconf 36' lang='lat' dir='ltr'>ww&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 1274 1679 1506 1832; x_wconf 58' lang='grc' dir='ltr'>ῗῗ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1496 1730 1590 1813; x_wconf 59' lang='grc' dir='ltr'>ἶ.»</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 532 1761 1259 1837; baseline 0.066 -24.899"><span class='ocrx_word' id='word_1_13' title='bbox 532 1769 708 1835; x_wconf 50' lang='grc' dir='ltr'>(μῶυ</span> <span class='ocrx_word' id='word_1_14' title='bbox 722 1766 897 1837; x_wconf 51' lang='grc' dir='ltr'>ΝἿᾌῆ</span> <span class='ocrx_word' id='word_1_15' title='bbox 904 1782 1034 1828; x_wconf 54' lang='lat' dir='ltr'>*tw</span> <span class='ocrx_word' id='word_1_16' title='bbox 1050 1761 1259 1834; x_wconf 49' lang='grc' dir='ltr'>ΒΜ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1907 3004">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1907 3004">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1907 3004; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1907 3004; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
